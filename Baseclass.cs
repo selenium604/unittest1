@@ -17,7 +17,7 @@ using System.Threading;
 using NUnit.Framework;
 
 
-namespace UnitTestProject1
+namespace UnitTestProject
 {
 
 
